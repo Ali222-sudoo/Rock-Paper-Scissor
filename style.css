@@ -32,10 +32,11 @@ img{
     align-items: center;
     gap: 3rem;
     margin-top: 5rem;
+    border-radius: 50%;
 }
 
 .choice:hover{
-    background-color: black;
+    background-color: rgb(143, 139, 139);
     cursor: pointer;
 }
 
